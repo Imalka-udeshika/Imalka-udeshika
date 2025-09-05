@@ -16,16 +16,29 @@ I'm a passionate Data Analyst who specializes in transforming raw data into acti
 
 ---
 
-## 🛠️ Technical Expertise
+## 🛠️ Tools & Languages I Use
 
-<div align="center">
+<table>
+  <tr>
+    <td align="center">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="50" /> <br>Python
+    </td>
+    <td align="center">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="50" /> <br>MySQL
+    </td>
+    <td align="center">
+      <img src="https://upload.wikimedia.org/wikipedia/commons/8/86/Excel_2013_logo.svg" width="50" /> <br>Excel
+    </td>
+    <td align="center">
+      <img src="https://upload.wikimedia.org/wikipedia/commons/4/4c/Tableau_Logo.png" width="50" /> <br>Tableau
+    </td>
+    <td align="center">
+      <img src="https://cdn.worldvectorlogo.com/logos/power-bi-1.svg" width="50" /> <br>Power BI
+    </td>
+  </tr>
+</table>
 
-| Python | MySQL | Excel | Power BI | Tableau |
-|:------:|:-----:|:-----:|:--------:|:-------:|
-| 🐍 | 🗄️ | 📊 | ⚡ | 📈 |
-
-</div>
-
+---
 
 
 ## 🤝 Open to Collaboration
