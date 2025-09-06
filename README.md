@@ -1,3 +1,10 @@
+ <p align="center">
+<img src="https://img.shields.io/badge/Age-24-blue" />
+  <img src="https://img.shields.io/badge/Focus-Data%20Analyst-blue" />
+  <img src="https://img.shields.io/badge/Lives-Sri%20Lanka-blue" />
+  <img src="https://img.shields.io/badge/Languages-English%20%26%20Sinhala-blue" />
+</p>
+
 # Hi there, I'm Imalka Udeshika 👋
 
 <div align="center">
