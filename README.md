@@ -27,13 +27,13 @@ I'm a passionate Data Analyst who specializes in transforming raw data into acti
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="50" /> <br>MySQL
     </td>
     <td align="center">
-      <img src="https://upload.wikimedia.org/wikipedia/commons/8/86/Excel_2013_logo.svg" width="50" /> <br>Excel
+      <img src="https://upload.wikimedia.org/wikipedia/commons/3/34/Microsoft_Office_Excel_%282019%E2%80%93present%29.svg" width="50" /> <br>Excel
     </td>
     <td align="center">
-      <img src="https://upload.wikimedia.org/wikipedia/commons/4/4c/Tableau_Logo.png" width="50" /> <br>Tableau
+      <img src="https://logos-world.net/wp-content/uploads/2021/10/Tableau-Logo.png" width="50" /> <br>Tableau
     </td>
     <td align="center">
-      <img src="https://cdn.worldvectorlogo.com/logos/power-bi-1.svg" width="50" /> <br>Power BI
+      <img src="https://upload.wikimedia.org/wikipedia/commons/c/cf/New_Power_BI_Logo.svg" width="50" /> <br>Power BI
     </td>
   </tr>
 </table>
