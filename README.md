@@ -17,6 +17,9 @@
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
+
+<picture> <img align="right" src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Right_Side.gif?raw=true" width = 250px></picture>
+
 ## 💼 About Me
 
 I'm a passionate Data Analyst who specializes in transforming raw data into actionable business insights. My mission is to bridge the gap between complex data sets and strategic business decisions through comprehensive analysis and compelling visualizations.
@@ -81,6 +84,10 @@ I'm looking to collaborate on **professional data portfolios** and **innovative 
 </p>
 
 </div>
+
+
+
+
 
 
 
