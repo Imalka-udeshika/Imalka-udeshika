@@ -15,13 +15,13 @@
 
 </div>
 
----
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
 ## 💼 About Me
 
 I'm a passionate Data Analyst who specializes in transforming raw data into actionable business insights. My mission is to bridge the gap between complex data sets and strategic business decisions through comprehensive analysis and compelling visualizations.
 
----
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
 ## 🛠️ Tools & Languages I Use
 
@@ -45,7 +45,7 @@ I'm a passionate Data Analyst who specializes in transforming raw data into acti
   </tr>
 </table>
 
----
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
 
 ## 🤝 Open to Collaboration
@@ -58,7 +58,7 @@ I'm looking to collaborate on **professional data portfolios** and **innovative 
 - MySQL Databases 
 - Power BI & Tableau Dashboards
 
----
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
 ## 📬 Connect With Me
 
@@ -70,7 +70,7 @@ I'm looking to collaborate on **professional data portfolios** and **innovative 
 
 </div>
 
----
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
 <div align="center">
 
