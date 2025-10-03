@@ -40,7 +40,7 @@ I'm a passionate Data Analyst who specializes in transforming raw data into acti
       <img src="https://upload.wikimedia.org/wikipedia/commons/3/34/Microsoft_Office_Excel_%282019%E2%80%93present%29.svg" width="50" /> <br>Excel
     </td>
     <td align="center">
-      <img src="https://logos-world.net/wp-content/uploads/2021/10/Tableau-Logo.png" width="50" /> <br>Tableau
+      <img src="https://logos-world.net/wp-content/uploads/2021/10/Tableau-Logo.png" width="60" /> <br>Tableau
     </td>
     <td align="center">
       <img src="https://upload.wikimedia.org/wikipedia/commons/c/cf/New_Power_BI_Logo.svg" width="50" /> <br>Power BI
