@@ -37,7 +37,7 @@ I'm a passionate Data Analyst who specializes in transforming raw data into acti
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="50" /> <br>MySQL
     </td>
     <td align="center">
-      <img src="https://https://upload.wikimedia.org/wikipedia/commons/e/e3/Microsoft_Office_Excel_%282019%E2%80%932025%29.svg" width="50" /> <br>Excel
+      <img src="https://upload.wikimedia.org/wikipedia/commons/e/e3/Microsoft_Office_Excel_%282019%E2%80%932025%29.svg" width="50" /> <br>Excel
     </td>
     <td align="center">
       <img src="https://logos-world.net/wp-content/uploads/2021/10/Tableau-Logo.png" width="60" /> <br>Tableau
