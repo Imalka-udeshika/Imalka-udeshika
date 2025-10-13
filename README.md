@@ -1,9 +1,4 @@
- <p align="center">
-<img src="https://img.shields.io/badge/Age-24-blue" />
-  <img src="https://img.shields.io/badge/Focus-Data%20Analyst-blue" />
-  <img src="https://img.shields.io/badge/Lives-Sri%20Lanka-blue" />
-  <img src="https://img.shields.io/badge/Languages-English%20%26%20Sinhala-blue" />
-</p>
+
 
 # Hi there, I'm Imalka Udeshika 👋
 
@@ -24,6 +19,13 @@
 
 I'm a passionate Data Analyst who specializes in transforming raw data into actionable business insights. My mission is to bridge the gap between complex data sets and strategic business decisions through comprehensive analysis and compelling visualizations.
 
+ <br> 
+ <p align="center">
+<img src="https://img.shields.io/badge/Age-24-blue" />
+  <img src="https://img.shields.io/badge/Focus-Data%20Analyst-blue" />
+  <img src="https://img.shields.io/badge/Lives-Sri%20Lanka-blue" />
+  <img src="https://img.shields.io/badge/Languages-English%20%26%20Sinhala-blue" />
+</p>
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
 ## 🛠️ Tools & Languages I Use
