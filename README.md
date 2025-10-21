@@ -1,12 +1,12 @@
 
 
-# Hi there, I'm Imalka Udeshika 👋
+## Hi there, I'm Imalka Udeshika 👋
 
 <div align="center">
 
 ### Data Analyst | Business Intelligence Enthusiast
 
-*-Using Data to Bridge the Gap Between Data and Business-*
+ *-Using Data to Bridge the Gap Between Data and Business-*
 
 </div>
 
@@ -15,7 +15,7 @@
 
 <picture> <img align="right" src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Right_Side.gif?raw=true" width = 250px></picture>
 
-## 💼 About Me
+### 💼 About Me
 
 I'm a passionate Data Analyst who specializes in transforming raw data into actionable business insights. My mission is to bridge the gap between complex data sets and strategic business decisions through comprehensive analysis and compelling visualizations.
 
@@ -28,7 +28,7 @@ I'm a passionate Data Analyst who specializes in transforming raw data into acti
 </p>
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
-## 🛠️ Tools & Languages I Use
+### 🛠️ Tools & Languages I Use
 
 <table>
   <tr>
@@ -53,7 +53,7 @@ I'm a passionate Data Analyst who specializes in transforming raw data into acti
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
 
-## 🤝 Open to Collaboration
+### 🤝 Open to Collaboration
 
 I'm looking to collaborate on **professional data portfolios** and **innovative analytics projects**
 
@@ -65,7 +65,7 @@ I'm looking to collaborate on **professional data portfolios** and **innovative 
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
-## 📬 Connect With Me
+### 📬 Connect With Me
 
 <div align="center">
 
