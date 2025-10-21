@@ -79,7 +79,7 @@ I'm looking to collaborate on **professional data portfolios** and **innovative 
 
 <div align="center">
 
-### *"In data we trust, in insights we grow"* ✨
+#### *"In data we trust, in insights we grow"* ✨
 <p align="center">
   <b>Thank you for visiting!</b> 🌟 <br>
   <i>Reach out for collaboration or just to connect!</i>
