@@ -38,17 +38,32 @@ I'm a passionate Data Analyst who specializes in transforming raw data into acti
 </table>
 
 ---
-## 💻 What I've Built
+### 💻 What I've Built
 
+
+
+
+
+
+
+
+
+
+
+
+---
 ### 🤝 Open to Collaboration
 
 I'm looking to collaborate on **professional data portfolios** and **innovative analytics projects**
 
 **Areas of Interest:**
-- Excel Analytics
-- Python Projects
+- Microsoft Excel & Advanced Analytics
+- Data Analysis & Business Insights
+- Python for Data Cleaning, EDA & Visualization
 - MySQL Databases 
 - Power BI & Tableau Dashboards
+- Portfolio and Open-Source Data Projects
+- Data Storytelling & Reporting
 
 ---
 
