@@ -38,7 +38,7 @@ I'm a passionate Data Analyst who specializes in transforming raw data into acti
 </table>
 
 ---
-
+## 💻 What I've Built
 
 ### 🤝 Open to Collaboration
 
