@@ -10,13 +10,13 @@
 
 ---
 
-### 💼 About Me
+<picture><img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width = 30px></picture>**About Me**
 
 I'm a passionate Data Analyst who specializes in transforming raw data into actionable business insights. My mission is to bridge the gap between complex data sets and strategic business decisions through comprehensive analysis and compelling visualizations.
 
 ---
 
-### 🛠️ Tools & Languages I Use
+<img src = "https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width = 42px>**Tools and Language I use** 
 
 <table>
   <tr>
@@ -39,12 +39,7 @@ I'm a passionate Data Analyst who specializes in transforming raw data into acti
 </table>
 
 ---
-### 💻 What I've Built
-
-
-
-
-
+<img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="50px">**What I've Built**
 
 
 
@@ -53,7 +48,7 @@ I'm a passionate Data Analyst who specializes in transforming raw data into acti
 
 
 ---
-### 🤝 Open to Collaboration
+<img src='https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif' width="80px">**Open to Collaboration**
 
 I'm looking to collaborate on **professional data portfolios** and **innovative analytics projects**
 
