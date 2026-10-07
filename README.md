@@ -3,7 +3,8 @@
 
 <div align="center">
 
-<div class""> Data Analyst </div>
+### Data Analyst | Business Intelligence Enthusiast
+
 *-Using Data to Bridge the Gap Between Data and Business-*
 
 </div>
